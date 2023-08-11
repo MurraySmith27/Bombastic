@@ -1,0 +1,106 @@
+﻿  stdafx.cpp
+  app.cpp
+  main.cpp
+  SimpleController.cpp
+  SimpleSound.cpp
+  SimpleSprite.cpp
+  TextureLoader.cpp
+  Bombastic.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\BoxColliderComponent.h(19,3): warning C4091: 'static ': ignored on left of 'BoxColliderComponent::CollisionLayers' when no variable is declared
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(155,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(155,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(155,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(155,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(171,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(171,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(171,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(187,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(187,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(187,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(199,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Bombastic.cpp(216,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  BombController.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(26,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(27,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(28,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(29,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\BoxColliderComponent.h(19,3): warning C4091: 'static ': ignored on left of 'BoxColliderComponent::CollisionLayers' when no variable is declared
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BombSpawnerController.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\BoxColliderComponent.h(19,3): warning C4091: 'static ': ignored on left of 'BoxColliderComponent::CollisionLayers' when no variable is declared
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombSpawnerController.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(26,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(27,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(28,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(29,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombSpawnerController.cpp(30,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombSpawnerController.cpp(35,76): warning C4305: 'argument': truncation from 'double' to 'float'
+  BoxColliderComponent.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\BoxColliderComponent.h(19,3): warning C4091: 'static ': ignored on left of 'BoxColliderComponent::CollisionLayers' when no variable is declared
+  CameraComponent.cpp
+  CollisionHandler.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\BoxColliderComponent.h(19,3): warning C4091: 'static ': ignored on left of 'BoxColliderComponent::CollisionLayers' when no variable is declared
+  DirectionalLightComponent.cpp
+  EntityManager.cpp
+  EntityData.cpp
+  GameState.cpp
+  IComponent.cpp
+  IDrawable.cpp
+  IEntity.cpp
+  IScript.cpp
+  Compiling...
+  MapLoader.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\MapLoader.cpp(15,15): warning C4101: 'e': unreferenced local variable
+  Mat4x4.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\Mat4x4.cpp(108,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\Mat4x4.cpp(108,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\Mat4x4.cpp(108,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\Mat4x4.cpp(108,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Material.cpp
+  Mesh.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\Mesh.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\Mesh.cpp(22,15): warning C4101: 'e': unreferenced local variable
+  MeshComponent.cpp
+  PlayerControlScript.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\BoxColliderComponent.h(19,3): warning C4091: 'static ': ignored on left of 'BoxColliderComponent::CollisionLayers' when no variable is declared
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\PlayerControlScript.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(26,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(27,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(28,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\BombController.h(29,7): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\PlayerControlScript.cpp(53,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\PlayerControlScript.cpp(54,64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\PlayerControlScript.cpp(150,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  Renderer.cpp
+  TextComponent.cpp
+  TransformComponent.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(67,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(68,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(69,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(73,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(73,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(74,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(74,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(79,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(79,11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(81,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(81,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(86,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(86,11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(87,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(87,11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\TransformComponent.cpp(166,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Vec3.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\Vec3.cpp(30,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Vec4.cpp
+  Generating code
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\IEntity.h(86): warning C4715: 'IEntity::getScriptOfType<BombSpawnerController>': not all control paths return a value
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\IEntity.h(86): warning C4715: 'IEntity::getScriptOfType<BombController>': not all control paths return a value
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\Bombastic\Engine\EntityManager.cpp(67): warning C4715: 'EntityManager::GetEntityByName': not all control paths return a value
+  1671 of 1696 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    41 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bombastic.vcxproj -> C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\x64\Release\Bombastic.exe
+  C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\Bombastic\\Bombastic\glut\bin\x64\freeglut.dll
+  1 File(s) copied

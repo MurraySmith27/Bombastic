@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="App\app.cpp" />
+    <ClCompile Include="App\main.cpp" />
+    <ClCompile Include="App\SimpleController.cpp" />
+    <ClCompile Include="App\SimpleSound.cpp" />
+    <ClCompile Include="App\SimpleSprite.cpp" />
+    <ClCompile Include="App\TextureLoader.cpp" />
+    <ClCompile Include="Bombastic.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Engine\IEntity.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\IScript.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\IComponent.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\IDrawable.cpp">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\MeshComponent.cpp">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Mesh.cpp">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Material.cpp">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\TransformComponent.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Vec3.cpp">
+      <Filter>Engine\Util</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Mat4x4.cpp">
+      <Filter>Engine\Util</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Vec4.cpp">
+      <Filter>Engine\Util</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\CameraComponent.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\DirectionalLightComponent.cpp">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\BoxColliderComponent.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\EntityManager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerControlScript.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Renderer.cpp">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityData.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\CollisionHandler.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="BombSpawnerController.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="BombController.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="MapLoader.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\TextComponent.cpp">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App\app.h" />
+    <ClInclude Include="App\AppSettings.h" />
+    <ClInclude Include="App\main.h" />
+    <ClInclude Include="App\SimpleController.h" />
+    <ClInclude Include="App\SimpleSound.h" />
+    <ClInclude Include="App\SimpleSprite.h" />
+    <ClInclude Include="App\TextureLoader.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Engine\IEntity.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\IScript.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\IComponent.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\IDrawable.h">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Material.h">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\MeshComponent.h">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Mesh.h">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\TransformComponent.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Vec3.h">
+      <Filter>Engine\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Mat4x4.h">
+      <Filter>Engine\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Vec4.h">
+      <Filter>Engine\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\CameraComponent.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\DirectionalLightComponent.h">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\BoxColliderComponent.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\EntityManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerControlScript.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Renderer.h">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityData.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\CollisionHandler.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="BombSpawnerController.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="BombController.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="MapLoader.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\TextComponent.h">
+      <Filter>Engine\RenderingComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Game">
+      <UniqueIdentifier>{7c994d49-9dc6-4a73-a4b2-6968d9c87f29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{85cbf49f-262b-4923-b50f-194b626bd5ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\RenderingComponents">
+      <UniqueIdentifier>{019ca186-5ce9-43d3-9ffd-060faca8cdf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Util">
+      <UniqueIdentifier>{0bd0b512-383b-42d3-81e4-1e04e368edbd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

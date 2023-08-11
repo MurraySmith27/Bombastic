@@ -1,0 +1,4 @@
+0 w 0 0 0
+w p w w w
+w s d g w
+0 w w w w

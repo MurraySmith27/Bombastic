@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GameTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GameTest.cpp
+C:\Users\murra\OneDrive\Desktop\personal_dev\NEXT-API\NEXT-API\UbisoftToronto-NEXT-API\NEXT-API\GameTest\GameTest.cpp(160,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Bombastic.cpp
+  Generating Code...
