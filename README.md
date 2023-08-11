@@ -17,6 +17,9 @@ Youtube Link:
 
 [![Bombastic Explanation Video](https://img.youtube.com/vi/-M6Tg8saeok/0.jpg)](https://www.youtube.com/watch?v=-M6Tg8saeok)
 
+Disclaimer:
+I did not build any of the files in Bombastic/App, those were given as part of the challenge API. Everything else I wrote myself.
+
 How to build (Windows Only):
 1. Pull the repository.
 2. Open Bombastic.sln in Visual Studio
