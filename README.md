@@ -13,6 +13,7 @@ Features include:
 
 A full walkthrough of the game and explanation of some features can be found here: 
 
+Youtube Link:
 [![Bombastic Explanation Video](https://img.youtube.com/vi/-M6Tg8saeok/0.jpg)](https://www.youtube.com/watch?v=-M6Tg8saeok)
 
 How to build (Windows Only):
